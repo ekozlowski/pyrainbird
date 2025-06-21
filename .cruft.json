@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/allenporter/cookiecutter-python",
-  "commit": "660f86f4628b518c5e276bd0edddcc1a2f83828f",
+  "commit": "f942b3d50b2cf83907c7f5260cb870dbbec0037b",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -10,7 +10,8 @@
       "project_name": "pyrainbird",
       "description": "Rain Bird Controller",
       "version": "6.0.1",
-      "_template": "https://github.com/allenporter/cookiecutter-python"
+      "_template": "https://github.com/allenporter/cookiecutter-python",
+      "_commit": "f942b3d50b2cf83907c7f5260cb870dbbec0037b"
     }
   },
   "directory": null
